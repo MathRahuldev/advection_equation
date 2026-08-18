@@ -1,6 +1,7 @@
 """
 Solving u_t + f(u)_x = 0 for f(u) = u
-Numerical schemes in finite difference form
+Numerical schemes in finite difference form.
+(On periodic domain)
 """
 
 import numpy as np

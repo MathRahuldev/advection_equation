@@ -1,3 +1,8 @@
+"""
+Solving u_t + f(u)_x = 0 for f(u) = u
+Numerical schemes in finite difference form
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 
